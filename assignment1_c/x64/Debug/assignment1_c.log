@@ -1,0 +1,13 @@
+﻿  main.cpp
+  my_model.cpp
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(137,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(168,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(171,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(355,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(412,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(424,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(543,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(823,73): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\JDK\Desktop\과제1\assignment1_c\assignment1_c\my_model.cpp(828,64): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  assignment1_c.vcxproj -> C:\Users\JDK\Desktop\과제1\assignment1_c\x64\Debug\assignment1_c.exe
